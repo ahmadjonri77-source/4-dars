@@ -10,6 +10,7 @@ export default function Main() {
           <Link to="/about">About</Link>
           <Link to="/features">Features</Link>
           <Link to="/pricing">Pricing</Link>
+          <Link to="/testimonials">Testimonials</Link>
         </div>
         <div className="flex items-center gap-5">
           <i className="fa-solid fa-bars text-[#0B132A] text-xl block lg:hidden"></i>
