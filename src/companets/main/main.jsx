@@ -13,7 +13,7 @@ export default function Main() {
           <Link to="/testimonials">Testimonials</Link>
         </div>
         <div className="flex items-center gap-5">
-          <i className="fa-solid fa-bars text-[#0B132A] text-xl block lg:hidden"></i>
+          <i className="fa-solid fa-bars text-[#0B132A] text-xl block lg:!hidden"></i>
           <a href="#" className="font-semibold text-[#0B132A]">Sign In</a>
           <button className="w-37 h-11 border-[#F53855] border text-[#F53855] font-medium rounded-[50px]">
             Sign Up
